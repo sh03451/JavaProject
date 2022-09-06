@@ -47,4 +47,23 @@ public class WordCRUD implements  ICRUD{
     public void selectOne(int id) {
 
     }
+    /*
+    => 원하는 메뉴는? 1
+    ------------------------------
+    1 ***       superintendent  관리자, 감독관
+    2 *                eletric  전기의, 전기를 생산하는
+    3 **             equipment  장비, 용품
+    4 *                   pole  기둥, 장대
+    ------------------------------
+
+    */
+    public void listAll(){
+        System.out.println("------------------------------");
+        for(int i=0;i<list.size();i++){
+            System.out.print((i+1) + " ");
+            //toString()으로 해놨기 때문에 바로 이렇게
+            System.out.println(list.get(i).toString());
+        }
+        System.out.println("------------------------------");
+    }
 }
