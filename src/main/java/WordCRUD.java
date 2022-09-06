@@ -30,7 +30,10 @@ public class WordCRUD implements  ICRUD{
     public void addWord(){
         Word one = (Word)add();
         list.add(one);
+
+        System.out.println();
         System.out.println("새 단어가 단어장에 추가되었습니다. ");
+        System.out.println();
     }
 
     @Override
@@ -58,6 +61,7 @@ public class WordCRUD implements  ICRUD{
 
     */
     public void listAll(){
+        System.out.println();
         System.out.println("------------------------------");
         for(int i=0;i<list.size();i++){
             System.out.print((i+1) + " ");
@@ -65,5 +69,6 @@ public class WordCRUD implements  ICRUD{
             System.out.println(list.get(i).toString());
         }
         System.out.println("------------------------------");
+        System.out.println();
     }
 }
