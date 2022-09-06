@@ -37,6 +37,22 @@ public class Word {
         this.meaning = meaning;
     }
 
+    /* 영단어는 오른쪽 정렬, 뜻은 왼쪽 정렬
+    1 *         electric    전기의, 전기를 생산하는
+    2 *             pole    기둥, 장대
+    */
+    @Override
+    public String toString(){
+        String slevel = "";
+        for(int i=0; i< level; i++){
+            slevel = slevel += "*";
+        }
+        String str = String.format("%-3s", slevel)  //레벨이 최대 3이므로 3만큼 왼쪽 정렬
+            + String.format("%15s", word)
+                + " " + meaning;
+        return str;
+    }
+
 
 
 }
