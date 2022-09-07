@@ -30,13 +30,17 @@ public class WordManager {
                 System.out.println("프로그램 종료! 다음에 만나요~");
                 break;
             }
-            if(menu == 4){
-                //create
-                wordCRUD.addWord();
+            if(menu == 4){  //create
+                wordCRUD.addItem();
             }
-            else if(menu == 1){
-                // list
+            else if(menu == 1){ // show list
                 wordCRUD.listAll();
+            }
+            else if(menu == 5){ // update
+                wordCRUD.updateItem();
+            }
+            else if(menu == 6){ //delete
+                wordCRUD.deleteItem();
             }
         }
 
