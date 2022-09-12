@@ -21,6 +21,9 @@ public class WordManager {
         return sc.nextInt();
     }
     public void start(){
+
+        wordCRUD.loadFile();
+
         System.out.println("*** 영단어 마스터 ***");
         System.out.println();
         while(true){
