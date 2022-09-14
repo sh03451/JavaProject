@@ -30,15 +30,15 @@
 >><img width="391" alt="screenshot-5" src="https://user-images.githubusercontent.com/103708164/190158344-2a551929-6e57-41e3-9423-9283c4ce87eb.png">
 
 > *기능별 스크린샷*
-> *[2]수준별 단어보기*
-> >><img width="352" alt="2 수준별단어보기" src="https://user-images.githubusercontent.com/103708164/190153760-e66a75fb-3da7-40d2-8efe-bbdc38c3bba6.png">
-> *[3]단어 검색* 
->> <img width="318" alt="3 단어검색" src="https://user-images.githubusercontent.com/103708164/190153998-2018c64b-2d9b-41cd-b30e-a70cd7c549e3.png">
-> *[5]단어 수정*
->> <img width="325" alt="5 단어수정" src="https://user-images.githubusercontent.com/103708164/190154091-ed4602ad-6b3a-4727-a978-90ccd36e74a0.png">
-> *[6]단어 삭제*
->> <img width="389" alt="6 단어삭제" src="https://user-images.githubusercontent.com/103708164/190154132-f7a1feea-e418-44e5-8eaa-c4e332771641.png">
-> *[7]파일 저장*
->> <img width="307" alt="7 파일저장" src="https://user-images.githubusercontent.com/103708164/190154172-ec68bc7e-233c-470d-826c-dcdaf2b0b17f.png">
+>> *[2]수준별 단어보기*
+>> >><img width="352" alt="2 수준별단어보기" src="https://user-images.githubusercontent.com/103708164/190153760-e66a75fb-3da7-40d2-8efe-bbdc38c3bba6.png">
+>> *[3]단어 검색* 
+>>> <img width="318" alt="3 단어검색" src="https://user-images.githubusercontent.com/103708164/190153998-2018c64b-2d9b-41cd-b30e-a70cd7c549e3.png">
+>> *[5]단어 수정*
+>>> <img width="325" alt="5 단어수정" src="https://user-images.githubusercontent.com/103708164/190154091-ed4602ad-6b3a-4727-a978-90ccd36e74a0.png">
+>> *[6]단어 삭제*
+>>> <img width="389" alt="6 단어삭제" src="https://user-images.githubusercontent.com/103708164/190154132-f7a1feea-e418-44e5-8eaa-c4e332771641.png">
+>> *[7]파일 저장*
+>>> <img width="307" alt="7 파일저장" src="https://user-images.githubusercontent.com/103708164/190154172-ec68bc7e-233c-470d-826c-dcdaf2b0b17f.png">
 
  
