@@ -38,4 +38,10 @@
 >> *[7]파일 저장*
 >>> <img width="307" alt="7 파일저장" src="https://user-images.githubusercontent.com/103708164/190154172-ec68bc7e-233c-470d-826c-dcdaf2b0b17f.png">
 
+#### *생성된 파일*
+>> *test.txt
+>> >> <img width="397" alt="파일 내용" src="https://user-images.githubusercontent.com/103708164/190160448-ffa8fc94-c498-41c3-bb37-c48a246da536.png">
+>> *Dictionary.txt*
+>> >> <img width="305" alt="스크린샷 2022-09-14 21 59 11" src="https://user-images.githubusercontent.com/103708164/190160518-fd9ed794-010e-47ad-a216-fa9528497d7e.png">
+
  
