@@ -140,7 +140,7 @@ public class WordCRUD implements  ICRUD{
 
     public void loadFile(){
         try{
-            BufferedReader br = new BufferedReader(new FileReader("fname"));
+            BufferedReader br = new BufferedReader(new FileReader(fname));
             String line;
             int cnt = 0;
             while(true) {
